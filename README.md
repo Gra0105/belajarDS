@@ -23,8 +23,6 @@ Selamat datang di repositori pembelajaran **Data Science** saya! Repositori ini 
 
 ---
 ## 📂 Struktur Repositori
-
-```text
 .
 ├── 1.ipynb         # praktek pertama pribadi mengenai DS
 [^_]: ├── datasets/                 # Sample dataset yang digunakan dalam latihan
