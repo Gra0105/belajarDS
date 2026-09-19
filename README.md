@@ -1,6 +1,6 @@
 # 📊 Data Science Learning Journey
 
-Selamat datang di repositori pembelajaran **Data Science** saya! Repositori ini berisi kumpulan kode, latihan praktis, eksplorasi data, serta implementasi algoritma Machine Learning yang saya pelajari dan kembangkan.
+Selamat datang di repositori pembelajaran **Data Science** saya! Repositori ini berisi latihan praktissaya pelajari dan kembangkan.
 
 ---
 
